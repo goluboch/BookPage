@@ -67,7 +67,7 @@ body {
 }
 .delivery__cards {
     display: flex;
-    align-items: center;
+    justify-content: space-around;
 }
 .card {
     display: flex;
