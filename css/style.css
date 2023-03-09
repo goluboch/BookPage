@@ -95,7 +95,7 @@ body {
     width: 260px;
     padding: 50px;
 }
-.buyers__row1 {
+.buyers__row {
     display: flex;
     justify-content: center;
 }
