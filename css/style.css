@@ -58,6 +58,7 @@ body {
 .delivery {
     background-color: rgb(235, 235, 235);
     width: 100vw;
+    margin-top: 30px;
 }
 .delivery__title {
     margin-top: 30px;
@@ -81,7 +82,7 @@ body {
     height: 50px;
 }
 .buyers {
-    align-items: center;
+        align-items: center;
 }
 .buyers__title {
     margin-top: 85px;
@@ -95,7 +96,8 @@ body {
     padding: 50px;
 }
 .buyers__row1 {
-    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 /*.buyers__row1 {
     display: grid;
