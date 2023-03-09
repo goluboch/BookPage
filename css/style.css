@@ -67,6 +67,7 @@ body {
 }
 .delivery__cards {
     display: flex;
+    align-items: center;
 }
 .card {
     display: flex;
